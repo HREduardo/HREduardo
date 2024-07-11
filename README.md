@@ -1,4 +1,4 @@
-- @HREduardo
+
 - Estudiante de ingeniería en electrónica
 
 <!---
